@@ -1,0 +1,1 @@
+<div style="display: table;margin-left: auto;margin-right: auto;padding-top: 20%"><h1> admin area</h1></div>
